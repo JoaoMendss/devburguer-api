@@ -11,4 +11,6 @@
 - Validando dados com o Yup. 
 - Criando Hash de senha.
 - Fazendo login de usuário.
-- Criando Migration de Produtos
+- Criando Migration de Produtos.
+- Criando Controller de Produtos.
+- Upload de imagens com Multer.
