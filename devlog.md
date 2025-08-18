@@ -17,3 +17,4 @@
 
 ✅ Dia 3:
 -  Criando Model de Produtos
+- Configurando token JWT
