@@ -4,7 +4,7 @@
 - Padronizando o código com Biome. 
 - Instalação do Docker e primeiro container Docker. 
 
-
+✅ Dia 2:
 - Instalação do Sequelize. 
 - Primeira Migration. 
 - Criando e configurando Model de Usuário. 
@@ -16,5 +16,7 @@
 - Upload de imagens com Multer.
 
 ✅ Dia 3:
--  Criando Model de Produtos
+- Criando Model de Produtos
 - Configurando token JWT
+- Criando tabela de categorias
+- 

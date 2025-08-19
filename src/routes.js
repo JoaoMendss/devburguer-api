@@ -6,6 +6,7 @@ import authMiddleware from "./middlewares/auth";
 import UserController from "./app/controller/UserController";
 import SessionController from "./app/controller/SessionController";
 import ProductController from "./app/controller/ProductController";
+import CategoryController from "./app/controller/CategoryController";
 
 const routes = new Router();
 
@@ -17,6 +18,9 @@ routes.post("/session", SessionController.store);
 routes.use(authMiddleware); //todas as rotas abaixo daqui precisa do middleware
 routes.post("/products", upload.single("file"), ProductController.store);
 routes.get("/products", ProductController.index);
+
+routes.post("/categories", CategoryController.store);
+routes.get("/categories", CategoryController.index);
 
 export default routes;
 
