@@ -19,4 +19,6 @@
 - Criando Model de Produtos
 - Configurando token JWT
 - Criando tabela de categorias
-- 
+- Validando categoria repetida
+
+✅ Dia 4:
