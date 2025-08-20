@@ -27,3 +27,4 @@
 - Aprendi sobre MongoDB - Bancos SQL x Banco NoSQL.
 - Criando conexão com MongoDB.
 - Criando scheme de pedidos.
+- Criando controller de pedidios.
