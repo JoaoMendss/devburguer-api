@@ -28,3 +28,4 @@
 - Criando conexão com MongoDB.
 - Criando scheme de pedidos.
 - Criando controller de pedidios.
+- Atualizando Status do Pedido.
