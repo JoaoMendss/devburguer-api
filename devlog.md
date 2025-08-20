@@ -16,11 +16,12 @@
 - Upload de imagens com Multer.
 
 ✅ Dia 3:
-- Criando Model de Produtos
-- Configurando token JWT
-- Criando tabela de categorias
-- Validando categoria repetida
+- Criando Model de Produtos.
+- Configurando token JWT.
+- Criando tabela de categorias.
+- Validando categoria repetida.
 
 ✅ Dia 4:
-- Criando e excluindo campos de uma tabela
-- Criando relacionamento entre tabelas (difícil pra caramba)
+- Criando e excluindo campos de uma tabela.
+- Criando relacionamento entre tabelas (difícil pra caramba).
+- Aprendi sobre MongoDB - Bancos SQL x Banco NoSQL.
