@@ -25,3 +25,4 @@
 - Criando e excluindo campos de uma tabela.
 - Criando relacionamento entre tabelas (difícil pra caramba).
 - Aprendi sobre MongoDB - Bancos SQL x Banco NoSQL.
+- Criando conexão com MongoDB.
