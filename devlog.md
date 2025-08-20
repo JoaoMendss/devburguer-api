@@ -22,3 +22,5 @@
 - Validando categoria repetida
 
 ✅ Dia 4:
+- Criando e excluindo campos de uma tabela
+- Criando relacionamento entre tabelas (difícil pra caramba)
