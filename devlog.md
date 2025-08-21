@@ -30,3 +30,6 @@
 - Criando controller de pedidios.
 - Atualizando Status do Pedido.
 - Update dos produtos.
+- Update de categorias.
+
+✅ Projeto finalizado no Dia 4 ✅
