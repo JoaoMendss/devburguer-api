@@ -1,3 +1,5 @@
+Iniciando projeto no dia 16/08/2025
+
 ✅ Dia 1: 
 - Instalação do Yarn. 
 - Instalação do Nodemon e Sucrase. 
@@ -33,3 +35,5 @@
 - Update de categorias.
 
 ✅ Projeto finalizado no Dia 4 ✅
+
+Finalizando projeto no dia 20/08/2025
