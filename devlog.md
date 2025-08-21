@@ -29,3 +29,4 @@
 - Criando scheme de pedidos.
 - Criando controller de pedidios.
 - Atualizando Status do Pedido.
+- Update dos produtos.
