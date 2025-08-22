@@ -5,7 +5,7 @@ Bem-vindo ao **DevBurger API** – a API que alimenta o sistema do DevBurger, pe
 
 ## 📖 Descrição do Projeto
 
-O **DevBurger API** é o backend de uma hamburgueria virtual, desenvolvido para gerenciar produtos, pedidos e categorias de forma prática e segura. A API permite criar, atualizar e consultar pedidos, armazenar informações de usuários com autenticação por JWT e senhas criptografadas, além de suportar upload de imagens de produtos. É ideal para estudos de desenvolvimento de APIs REST e projetos de aprendizado em Node.js.
+<p>O <b>DevBurger API</b> é o backend de uma hamburgueria virtual, desenvolvido para gerenciar produtos, pedidos e categorias de forma prática e segura. A API permite criar, atualizar e consultar pedidos, armazenar informações de usuários com autenticação por JWT e senhas criptografadas, além de suportar upload de imagens de produtos. É ideal para estudos de desenvolvimento de APIs REST e projetos de aprendizado em Node.js.</p>
 ---
 
 ## 🚀 Tecnologias Utilizadas
@@ -24,13 +24,13 @@ O **DevBurger API** é o backend de uma hamburgueria virtual, desenvolvido para 
 
 ## ⚙️ Funcionalidades
 
-✅ Cadastro e login de usuários.  
-✅ Autenticação com JWT.  
-✅ Gerenciamento de **produtos** (CRUD completo).  
-✅ Gerenciamento de **categorias** (CRUD completo).  
-✅ Upload de imagens para produtos.  
-✅ Criação e gerenciamento de pedidos.  
-✅ Relacionamento entre **produtos, categorias e pedidos**.  
+- ✅ Cadastro e login de usuários.  
+- ✅ Autenticação com JWT.  
+- ✅ Gerenciamento de **produtos** (CRUD completo).  
+- ✅ Gerenciamento de **categorias** (CRUD completo).  
+- ✅ Upload de imagens para produtos.  
+- ✅ Criação e gerenciamento de pedidos.  
+- ✅ Relacionamento entre **produtos, categorias e pedidos**.  
 ---
 
 ## 📂 Estrutura de Pastas
