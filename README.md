@@ -3,12 +3,10 @@
 Bem-vindo ao **DevBurger API** – a API que alimenta o sistema do DevBurger, permitindo gerenciar pedidos, produtos e categorias de uma hamburgueria de forma prática e rápida.
 ---
 
-
 ## 📖 Descrição do Projeto
 
 O **DevBurger API** é o backend de uma hamburgueria virtual, desenvolvido para gerenciar produtos, pedidos e categorias de forma prática e segura. A API permite criar, atualizar e consultar pedidos, armazenar informações de usuários com autenticação por JWT e senhas criptografadas, além de suportar upload de imagens de produtos. É ideal para estudos de desenvolvimento de APIs REST e projetos de aprendizado em Node.js.
 ---
-
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -24,7 +22,6 @@ O **DevBurger API** é o backend de uma hamburgueria virtual, desenvolvido para 
 - **Multer** – upload de imagens.
 ---
 
-
 ## ⚙️ Funcionalidades
 
 ✅ Cadastro e login de usuários.  
@@ -38,33 +35,37 @@ O **DevBurger API** é o backend de uma hamburgueria virtual, desenvolvido para 
 
 ## 📂 Estrutura de Pastas
 
-DEVBURGER-API
-├── node_modules
-├── src
-│   ├── app
-│   │   ├── controller
+<details>
+<summary>Clique para expandir</summary>
+
+```text
+devburger-api/
+├── node_modules/
+├── src/
+│   ├── app/
+│   │   ├── controller/
 │   │   │   ├── CategoryController.js
 │   │   │   ├── OrderController.js
 │   │   │   ├── ProductController.js
 │   │   │   ├── SessionController.js
 │   │   │   └── UserController.js
-│   │   ├── middlewares
+│   │   ├── middlewares/
 │   │   │   └── auth.js
-│   │   ├── models
+│   │   ├── models/
 │   │   │   ├── Category.js
 │   │   │   ├── Product.js
 │   │   │   └── User.js
-│   │   └── schemas
+│   │   └── schemas/
 │   │       └── Order.js
-│   ├── config
+│   ├── config/
 │   │   ├── auth.js
 │   │   ├── database.js
 │   │   └── multer.js
-│   ├── database
+│   ├── database/
 │   ├── app.js
 │   ├── routes.js
 │   └── server.js
-├── uploads
+├── uploads/
 ├── .gitignore
 ├── .sequelizerc
 ├── biome.json
@@ -74,7 +75,8 @@ DEVBURGER-API
 ├── package.json
 ├── README.md
 └── yarn.lock
-
+```
+</details>
 
 ## 🛠️ Como rodar o projeto localmente
 
